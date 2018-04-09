@@ -1,0 +1,4 @@
+name: A/B Test 
+description: A/B Test Module for Drupal 8
+core: 8.x
+type: module
